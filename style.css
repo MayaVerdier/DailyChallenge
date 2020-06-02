@@ -3,16 +3,16 @@ body{
   background: rgb(0, 0, 0);
   color: green;
   font-size: 30px;
-  font-family: Helvetica;
+  font-family: Impact;
 }
 h1{
-  font-family: Helvetica;
+  font-family: Phosphate;
   color: red;
   font-weight: lighter;
-  font-size: 20px;
+  font-size: 50px;
 }
 h2 {
-  font-family: Helvetica;
+  font-family: Cooper Black;
   color: red;
   font-weight: lighter;
   font-size: 40px;
@@ -22,5 +22,6 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: purple;
+  color: blue;
+  font-family: Comic sans MS;
 }
